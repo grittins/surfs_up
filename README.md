@@ -21,3 +21,6 @@ Summary statistics of temperatures for the months of June:
 Summary statistics of temperatures for the months of December:
 
 <img width="130" alt="Screen Shot 2022-10-04 at 3 28 48 AM" src="https://user-images.githubusercontent.com/104872971/193789789-375af8d3-e506-423d-bcf2-d59ada6d29bb.png">
+
+## Summary
+The summary statistics show the temperature to be quite similar with a mean difference of ~4 Fahrenheit only. Therefore, a year round ice cream shop business can be sustainable. 
